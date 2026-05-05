@@ -79,14 +79,7 @@ Inspired by Airbnb, it provides a smooth user experience with secure authenticat
 * Protected routes
 * Input validation
 
----
 
-
-## 🤝 Contributing
-
-Contributions are welcome! Fork the repo and submit a PR.
-
----
 
 ## 👨‍💻 Author
 
